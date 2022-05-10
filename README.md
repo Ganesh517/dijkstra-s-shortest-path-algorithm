@@ -19,7 +19,7 @@ Select a specific number of nodes with distance
 
 ## ROUTE MAP
 #### Example map
-![image](https://github.com/Ganesh517/dijkstra-s-shortest-path-algorithm/blob/main/IMG_20220506_210629.jpg)
+![image](https://github.com/Ganesh517/dijkstra-s-shortest-path-algorithm/blob/main/gani.jpg)
 ## PROGRAM
 Student name: ELURU GANESH
 
